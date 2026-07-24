@@ -1,4 +1,4 @@
-/* ==================================================
+8/* ==================================================
    DUCKY HEALTH & BEAUTY v1.0
 ================================================== */
 
@@ -246,5 +246,41 @@ max-width:80%;
 margin:25px auto;
 
 transform:rotate(-2deg);
+
+   }
+
+/* ==========================================
+   DUCKY'S PICK
+========================================== */
+
+.ducky-pick-header{
+
+display:flex;
+
+align-items:center;
+
+gap:12px;
+
+margin-bottom:15px;
+
+}
+
+.ducky-icon{
+
+width:60px;
+
+height:auto;
+
+transform:rotate(-8deg);
+
+}
+
+.ducky-pick-header h2{
+
+margin:0;
+
+font-family:'Patrick Hand',cursive;
+
+font-size:2rem;
 
    }
