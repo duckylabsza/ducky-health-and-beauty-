@@ -253,24 +253,16 @@ transform:rotate(-2deg);
    DUCKY'S PICK
 ========================================== */
 
-.ducky-pick-header{
+.ducky-inline{
 
-display:flex;
-
-align-items:center;
-
-gap:12px;
-
-margin-bottom:15px;
-
-}
-
-.ducky-icon{
-
-width:60px;
+width:42px;
 
 height:auto;
 
+vertical-align:middle;
+
+margin-right:8px;
+
 transform:rotate(-8deg);
 
-}
+   }
